@@ -18,7 +18,7 @@
 ### 外部依赖
 
 ```html
- <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.slim.min.js"</script>
+ <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.slim.min.js"></script>
 ```
 
 ### css样式
