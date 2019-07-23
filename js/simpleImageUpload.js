@@ -29,7 +29,7 @@ function newFunction() {
                 </div>
                 
                 <input id="multipleFile" style="display: none" name="file" accept="image/*" type="file">
-                <button class="fileAdd btn btn-success pull-right btn2" style="display: none">上传文件</button>`);
+                <button class="fileAdd btn btn-success pull-right btn2" style="display: none">选择文件</button>`);
             this.tmpFile = $("#multipleFile");
             this.insertBtn = $("div.fileAdd");
             this.insertBtn2 = $("button.fileAdd");
