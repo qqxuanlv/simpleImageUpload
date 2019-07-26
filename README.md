@@ -20,7 +20,11 @@
 ```html
  <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.slim.min.js"></script>
 ```
+```
+  <div id="filePosition">
 
+    </div>
+```
 ### css样式
 
 ```css
